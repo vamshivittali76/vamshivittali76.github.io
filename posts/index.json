@@ -1,0 +1,32 @@
+[
+  {
+    "id": "003",
+    "slug": "shipping-imperfect-software",
+    "date": "2026-04-15",
+    "title": "On shipping imperfect software",
+    "excerpt": "Levlr is in development and nowhere near done. That used to bother me. It doesn't anymore. Here's the mindset shift that changed everything.",
+    "readTime": "3 min read",
+    "tags": ["Startups", "Building", "Mindset"],
+    "file": "003-shipping-imperfect-software.json"
+  },
+  {
+    "id": "002",
+    "slug": "rebuilding-job-search-with-ai",
+    "date": "2026-04-08",
+    "title": "What I learned rebuilding my job search with AI",
+    "excerpt": "I spent 3 weeks automating my own job applications with Helix. The results surprised me in ways I didn't expect — some good, some humbling.",
+    "readTime": "6 min read",
+    "tags": ["Automation", "Career", "AI"],
+    "file": "002-rebuilding-job-search-with-ai.json"
+  },
+  {
+    "id": "001",
+    "slug": "betting-on-mcp-servers",
+    "date": "2026-05-01",
+    "title": "Why I'm betting on MCP servers in 2026",
+    "excerpt": "Model Context Protocol is quietly becoming the backbone of production AI agents. Here's why I think it's the right abstraction layer — and what I've learned building with it.",
+    "readTime": "4 min read",
+    "tags": ["AI", "MCP", "Agents"],
+    "file": "001-betting-on-mcp-servers.json"
+  }
+]

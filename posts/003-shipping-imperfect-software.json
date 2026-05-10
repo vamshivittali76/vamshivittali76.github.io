@@ -1,0 +1,15 @@
+{
+  "id": "003",
+  "slug": "shipping-imperfect-software",
+  "date": "2026-04-15",
+  "title": "On shipping imperfect software",
+  "excerpt": "Levlr is in development and nowhere near done. That used to bother me. It doesn't anymore. Here's the mindset shift that changed everything.",
+  "readTime": "3 min read",
+  "tags": ["Startups", "Building", "Mindset"],
+  "content": [
+    "I used to be the developer who wouldn't push code until every edge case was handled, every error message was perfect, and the test coverage was above 90%. That sounds responsible. In practice, it meant I shipped almost nothing for months at a time.",
+    "The shift happened when I started building Levlr. It's a certification tracking platform — straightforward enough, but the scope kept expanding in my head. I wanted AI recommendations, gamification, team management, Slack integrations. The feature list grew faster than the codebase. I was paralyzed.",
+    "What broke the cycle was simple: I deployed the ugliest version that could possibly be useful. No AI. No gamification. Just a form to add certifications and a dashboard to track deadlines. I put it in front of three people and asked them if it solved a real problem. Two of them said yes. One gave me feedback that reshaped the entire product direction.",
+    "That's the lesson I keep relearning: shipping is a muscle, and the only way to train it is to push code that makes you slightly uncomfortable. The imperfect version that exists beats the perfect version that doesn't."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "lastUpdated": "2026-05-07",
+  "entries": [
+    { "label": "shipping", "value": "Levlr (SaaS cert tracker)", "year": "2026" },
+    { "label": "learning", "value": "Mobile AI agents + on-device LLMs", "year": "2026" },
+    { "label": "exploring", "value": "n8n agentic workflow automation", "year": "2026" },
+    { "label": "reading", "value": "Context Engineering for LLMs", "year": "2026" },
+    { "label": "next", "value": "YC application season", "year": "2026" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "002",
+  "slug": "rebuilding-job-search-with-ai",
+  "date": "2026-04-08",
+  "title": "What I learned rebuilding my job search with AI",
+  "excerpt": "I spent 3 weeks automating my own job applications with Helix. The results surprised me in ways I didn't expect — some good, some humbling.",
+  "readTime": "6 min read",
+  "tags": ["Automation", "Career", "AI"],
+  "content": [
+    "The idea behind Helix was straightforward: scrape job listings from multiple sources, use an LLM to match my resume against job descriptions, generate tailored cover letters, and track everything through a Discord bot. In theory, it would save me hours per day. In practice, it taught me more about the limits of automation than the power of it.",
+    "The good: Helix was shockingly effective at the filtering stage. It could analyze 200+ job listings and surface the 15-20 that genuinely matched my skills in under a minute. The tailored cover letter drafts were 80% there — enough to edit quickly rather than write from scratch. Application throughput went from maybe 5 per day to 25+.",
+    "The humbling part: volume doesn't equal quality. The first week's response rate was actually lower than my manual approach. Turns out, the 20% of the cover letter that needed human judgment — the specific anecdote, the genuine enthusiasm for that particular team — was the 20% that mattered most. I had to rebuild the pipeline to be collaborative rather than autonomous.",
+    "The real lesson was about where AI fits in a human process. The best version of Helix doesn't replace me — it accelerates the boring parts and gives me more time for the parts that require genuine thought. That's the pattern I keep seeing in every AI project I build now."
+  ]
+}
