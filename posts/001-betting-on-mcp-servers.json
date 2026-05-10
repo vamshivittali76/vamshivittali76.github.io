@@ -9,7 +9,7 @@
   "content": [
     "When I first started building AI agents, the hardest part wasn't the model itself — it was giving the model reliable access to the tools and data it needed. Every integration felt bespoke. Every new data source meant custom glue code, brittle parsers, and authentication headaches that had nothing to do with the actual intelligence layer.",
     "MCP changes that equation. It provides a standardized protocol for connecting AI models to external tools, databases, and APIs — the same way HTTP standardized how web browsers talk to servers. You define your resources once, expose them through a clean interface, and any MCP-compatible agent can pick them up without custom wiring.",
-    "I've been using MCP extensively in Tokie and in my work at Allegion, and the pattern holds: once you set up the server, adding new capabilities to your agent becomes trivial. Need to query a database? Add a resource. Need to call an API? Add a tool. The cognitive overhead drops dramatically.",
+    "I've been using MCP extensively in Tokie and at work, and the pattern holds: once you set up the server, adding new capabilities to your agent becomes trivial. Need to query a database? Add a resource. Need to call an API? Add a tool. The cognitive overhead drops dramatically.",
     "The bet I'm making is simple: as AI agents move from demos to production systems, the teams that win will be the ones with the best context infrastructure. MCP is the clearest path to that infrastructure today, and it's only getting better."
   ]
 }
